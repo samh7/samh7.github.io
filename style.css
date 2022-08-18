@@ -1,0 +1,12 @@
+body {
+    background-color: tan;
+    display: flex;
+    flex-wrap: wrap;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75px;
+    color: black;
+    margin: 40px;
+
+}
